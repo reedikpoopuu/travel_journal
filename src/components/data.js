@@ -4,7 +4,7 @@ export default [
         item: {
             pic: require("../images/photo-1589308078059-be1415eab4c3.jpg"),
             location: "JAPAN",
-            location_map: "google.maps.com",
+            location_map: "https://goo.gl/maps/LudywnrHoRrDrcuH8",
             title: "Mount Fuji",
             start_date: "12 Jan, 2021",
             end_date: "24 Jan, 2021",
@@ -16,7 +16,7 @@ export default [
         item: {
             pic: require("../images/photo-1624138784614-87fd1b6528f8.jpg"),
             location: "AUSTRALIA",
-            location_map: "google.maps.com",
+            location_map: "https://goo.gl/maps/Fh4vPjtS1od7aHsR8",
             title: "Sydney Opera House",
             start_date: "27 May, 2021",
             end_date: "08 Jun, 2021",
@@ -28,7 +28,7 @@ export default [
         item: {
             pic: require("../images/photo-1601439678777-b2b3c56fa627.jpg"),
             location: "NORWAY",
-            location_map: "google.maps.com",
+            location_map: "https://goo.gl/maps/rwb3cDbXnm5XkDyHA",
             title: "Geirangerfjord",
             start_date: "01 Oct, 2021",
             end_date: "18 Nov, 2021",
